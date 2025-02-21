@@ -2,7 +2,6 @@
     package="com.example.brightness_slider">
     <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
-    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
     <application
         android:label="brightness_slider"
         android:name="${applicationName}"
